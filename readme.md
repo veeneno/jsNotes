@@ -45,7 +45,7 @@ console.log("Ola " + nome) // input = Ola Matheus
 
 ----------------
 - [function](/javascript%20puro/pt4/function.md)
-    - [arrow function]()
+    - [arrow function](/javascript%20puro/pt4/arrowfunc.md)
 ---------------
 - [arrays e objetos](/javascript%20puro/pt5/arrays%20e%20objetos.md)
 # PROJETOS COM JAVASCRIPT 
