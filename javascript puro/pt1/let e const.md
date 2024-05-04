@@ -34,7 +34,7 @@ const nome = "Victor"     // Tipo String
 const idade = 16          // Tipo numerico 
 const estudante = true    // Tipo bool 
 const radiante = false    // Tipo bool 
-       // input = pedro
+
 idade = idade + 2
 
 console.log(idade) // input = erro no console
