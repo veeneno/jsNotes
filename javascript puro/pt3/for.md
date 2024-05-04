@@ -10,6 +10,8 @@ O **for loop** precisa de 3 condicoes para funcionar:
 
 o **For** serve para diversas coisas dentro do javascript vamos para um exemplo.
 
+sempre utilizamos o **for** quando quisermos um loop por quantidade *definida* de vezes
+
 Queremos um **codigo** que conte ate 10 para nos e apos isso envie um feliz aniversario, como fariamos sem os loops
 ### construcao
 ~~~javascript

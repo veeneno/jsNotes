@@ -45,7 +45,11 @@ console.log("Ola " + nome) // input = Ola Matheus
 
 ----------------
 - [function](/javascript%20puro/pt4/function.md)
-# PROJETOS COM JAVASCRIPT (html e css podem aparecer)
+    - [arrow function]()
+---------------
+- [arrays e objetos](/javascript%20puro/pt5/arrays%20e%20objetos.md)
+# PROJETOS COM JAVASCRIPT 
+###### (html e css podem aparecer)
 ###### (nem todos projetos sao codigos feitos por mim)
 
 - [calculadora](https://github.com/veeneno/Projects/tree/main/calc)
