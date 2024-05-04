@@ -44,6 +44,7 @@ console.log("Ola " + nome) // input = Ola Matheus
     - [while](/javascript%20puro/pt3/while.md)
 
 ----------------
+- [function](/javascript%20puro/pt4/function.md)
 # PROJETOS COM JAVASCRIPT (html e css podem aparecer)
 ###### (nem todos projetos sao codigos feitos por mim)
 
