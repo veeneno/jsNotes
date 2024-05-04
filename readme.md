@@ -28,12 +28,28 @@ console.log("Ola " + nome) // input = Ola Matheus
 
 ## Codigos Basicos javascript
 
-- [Declarando Variaveis e Constantes](/pt1/let%20e%20const.md)
-    - [Operacoes e comparativos](/pt1/operacoes%20e%20comparativos.md)
-    - [Funcoes da string](/pt1/funcoes%20da%20string.md)
-- [Aceitando input](/pt2/aceitando%20input.md)
-- [Conversao de valores](/pt2/conversao%20de%20valores.md)
+- [Declarando Variaveis e Constantes](/javascript%20puro/pt1/let%20e%20const.md)
+    - [Operacoes e comparativos](/javascript%20puro/pt1/operacoes%20e%20comparativos.md)
+    - [Funcoes da string](/javascript%20puro/pt1/funcoes%20da%20string.md)
+    - [Aceitando input do usuario](/javascript%20puro/pt1/aceitando%20input.md)
+    - [Conversao de valores](/javascript%20puro/pt1/conversao%20de%20valores.md)
+------
+- [condicoes](/javascript%20puro/pt2/condicoes.md)
+    - [if, else, else if](/javascript%20puro/pt2/if.md)
+    - [switch](/javascript%20puro/pt2/switch.md)
+    - [ternary](/javascript%20puro/pt2/ternary.md)
+------
+- [loops](/javascript%20puro/pt3/loops.md)
+    - [for](/javascript%20puro/pt3/for.md)
+    - [while](/javascript%20puro/pt3/while.md)
 
-- [loops](/pt4/loops.md)
+----------------
+# PROJETOS COM JAVASCRIPT (html e css podem aparecer)
+###### (nem todos projetos sao codigos feitos por mim)
 
+- [calculadora](https://github.com/veeneno/Projects/tree/main/calc)
+- [cronometro](https://github.com/veeneno/Projects/tree/main/cronometro)
 
+## By veneno
+
+- [Twitter SB Tool](https://github.com/veeneno/Projects/tree/main/veneno%20Twitter%20Tools)
